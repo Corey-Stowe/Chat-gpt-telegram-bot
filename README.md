@@ -1,4 +1,4 @@
-# Chat-gpt-telegram-bot: Fast. No daily limits. Use base SK key API
+# Chat-gpt-telegram-bot: Fast. Simple. No daily limits. Use base SK key API
 <h2>Features</h2>  
 - No request limits
 <br>
